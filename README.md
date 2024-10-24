@@ -15,14 +15,15 @@ Estou estudando para tornar-me **fullstack** no futuro 🚀, e no momento, estou
 
 Sempre buscando aprender e melhorar!🔧✨
 
-<div style="display: inline_block"><br>
+ - **LINGUAGENS PRINCIPAIS**
+<div style="display: inline_block">
   <img align="center" alt="JG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
   ##
- 
+
 <div> 
   <a href="https://www.instagram.com/jg.crz_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:josegabasobecapi1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
