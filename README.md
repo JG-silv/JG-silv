@@ -1,5 +1,6 @@
 # Olá! Eu sou o JG - silv 👋
 💻 Sou um estudante de desenvolvimento web com **6 meses de experiência** 📚,começando do zero na programação.
+
 ✨ Por enquanto meu foco atual está em **HTML, CSS e JavaScript**, com o objetivo de aprimorar minhas habilidades e aprender novas tecnologias para criar experiências web incríveis 🌱.
 
 ## Tecnologias que já estudo:
