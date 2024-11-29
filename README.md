@@ -3,6 +3,7 @@
 
 ✨ Por enquanto meu foco atual está em **HTML, CSS e JavaScript**, com o objetivo de aprimorar minhas habilidades e aprender novas tecnologias para criar experiências web incríveis 🌱.
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-silv)](https://github.com/JG-silv/github-readme-stats)
 ## Tecnologias que já estudo:
 - **HTML5** 📝
 - **CSS3** 🎨
@@ -21,6 +22,7 @@ Sempre buscando aprender e melhorar!🔧✨
   <img align="center" alt="JG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
 
 </div>
   
