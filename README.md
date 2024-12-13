@@ -3,7 +3,7 @@
 
 🏫 Meu percurso acadêmico na Step Computer Academy inclui **4 anos** de Formação em Denvolvimento Fullstack
 
-✨ Por enquanto meu foco atual está em **HTML, CSS e JavaScript**, com o objetivo de aprimorar minhas habilidades e aprender novas tecnologias no futuro 🌱.
+✨ Por enquanto meu foco atual está em **HTML, CSS, JavaScript e BootStrap(framework)**, com o objetivo de aprimorar minhas habilidades e aprender novas tecnologias no futuro 🌱.
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-silv)](https://github.com/JG-silv/github-readme-stats)
 ## Tecnologias que já estudo:
