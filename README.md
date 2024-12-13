@@ -2,7 +2,7 @@
 💻 Sou um estudante de desenvolvimento web com **6 meses de experiência**📚.
 
 🏫 Meu percurso acadêmico na Step Computer Academy inclui **4 anos** de Estudos para
-A Formação em Denvolvimento Fullstack📂
+A Formação em Denvolvimento Fullstack
 
 ✨ Por enquanto meu foco atual está em **HTML, CSS, JavaScript e BootStrap**, com o objetivo de aprimorar minhas habilidades e aprender novas tecnologias no futuro 🌱.
 
