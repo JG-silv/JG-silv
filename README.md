@@ -1,8 +1,8 @@
 # Olá! Eu sou o JG - silv 👋
 💻 Sou um estudante de desenvolvimento com **6 meses de experiência**📚.
 
-🏫 Meu percurso acadêmico na Step Computer Academy inclui **4 anos** de Estudos para
-A Formação em Denvolvimento Fullstack
+🏫 Meu percurso acadêmico na Step Computer Academy inclui **4 anos** de estudos para
+A Formação em denvolvimento Fullstack
 
 ✨ Por enquanto meu foco atual está em **HTML, CSS, JavaScript e BootStrap**, com o objetivo de aprimorar minhas habilidades e aprender novas tecnologias no futuro 🌱.
 
@@ -15,7 +15,7 @@ A Formação em Denvolvimento Fullstack
 
 ## Projetos:
 - **Projeto de site pessoal** (descrição + link) 🌐
-- **Página de portfólio simples** (descrição + link) 🖥️
+- **Página de portfólio** (descrição + link) 🖥️
 
 Estou estudando para tornar-me **fullstack** no futuro 🚀, e no momento, estou focado no **JavaScript** como parte desse processo.
 
