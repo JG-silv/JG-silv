@@ -13,7 +13,7 @@ A Formação em denvolvimento Fullstack
 - **BootStrap** (FrameWork) 🧠
 
 ## Projetos:
-- **Página de portfólio** (Meu portifólio que foi feito com todas as linguangens que eu estudo + jg-silv.site) 🖥️
+- **Página de portfólio** (Meu portifólio que foi feito com todas as linguangens que eu estudo + <a href="jg-silv.site"> </a>) 🖥️
 
 Estou estudando para tornar-me **fullstack** no futuro 🚀, e no momento, estou focado no **JavaScript** como parte desse processo.
 
