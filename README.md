@@ -1,16 +1,7 @@
-# Olá! Eu sou o JG - silv 👋
-💻 Sou um estudante de desenvolvimento front-end📚.
+# Olá! Eu sou o José 👋
+•Dev front-end 
 
-✨ Por enquanto meu foco atual está em **HTML, CSS, JavaScript e BootStrap**, com o objetivo de aprimorar minhas habilidades e aprender novas tecnologias no futuro 🌱.
-
-## Tecnologias que já estudo:
-- **HTML5** 📝
-- **CSS3** 🎨
-- **JavaScript** (em progresso) ⚙️
-- **BootStrap** (FrameWork) 🧠
-
-## Projetos:
-- **Página de portfólio** (Meu portifólio que foi feito com todas as linguangens que eu estudo + <a href="jg-silv.site">Meu Portifólio</a>) 🖥️
+✨ Meu foco atual está em **HTML, CSS, JavaScript e BootStrap**, com o objetivo de aprimorar minhas habilidades e aprender novas tecnologias no futuro.
 
 Estou estudando para tornar-me **fullstack** no futuro 🚀, e no momento, estou focado no **JavaScript** como parte desse processo.
 
