@@ -1,4 +1,5 @@
-# Hello! I'm José
+# 👋 Hello World!!
+I'm José 
 
 Estou estudando para tornar-me **fullstack** no futuro 🚀, e no momento, estou focado no **JavaScript** como parte desse processo.
 
