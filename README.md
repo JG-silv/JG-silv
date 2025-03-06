@@ -1,11 +1,8 @@
 # Olá! Eu sou o José 👋
-•Dev front-end 
-
-✨ Meu foco atual está em **HTML, CSS, JavaScript e BootStrap**, com o objetivo de aprimorar minhas habilidades e aprender novas tecnologias no futuro.
 
 Estou estudando para tornar-me **fullstack** no futuro 🚀, e no momento, estou focado no **JavaScript** como parte desse processo.
 
-Sempre buscando aprender e melhorar!🔧✨
+aprender e melhorar!🔧✨
 
  - **TECNOLOGIAS PRINCIPAIS**
 <div style="display: inline_block">
@@ -13,9 +10,6 @@ Sempre buscando aprender e melhorar!🔧✨
   <img align="center" alt="JG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JG-CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
-
- 
-
 </div>
   
   ##
