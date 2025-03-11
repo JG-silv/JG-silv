@@ -1,11 +1,11 @@
-# 👋 Hello World!!, I'm José 
+# 👋 Hello World, I'm José 
 
 
-Estou estudando para tornar-me **fullstack** no futuro 🚀, e no momento, estou focado no **JavaScript** como parte desse processo.
+I'm studying to become a **fullstack** in the future 🚀, and right now, I'm focusing on **JavaScript** as part of that 
 
-aprender e melhorar!🔧✨
+learn and improve!🔧✨ 
 
- - **TECNOLOGIAS PRINCIPAIS**
+ - **MAIN TECHNOLOGIES**
 <div style="display: inline_block">
   <img align="center" alt="JG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,3 +19,4 @@ aprender e melhorar!🔧✨
   <a href = "mailto:jg.desenvolver1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+ 
