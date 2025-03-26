@@ -1,7 +1,7 @@
 # 👋 Hello World, I'm José 
 
 
-I'm studying to become a **fullstack** in the future 🚀, and right now, I'm focusing on **JavaScript** as part of that 
+I'm studying to become a **fullstack** 🚀, and right now, I'm focusing on **JavaScript** as part of that 
 
 learn and improve!🔧✨ 
 
