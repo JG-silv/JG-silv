@@ -5,6 +5,8 @@ I'm studying to become a **fullstack** 🚀, and right now, I'm focusing on **Ja
 
 learn and improve!🔧✨ 
 
+Never stop **learning**!
+
  - **MAIN TECHNOLOGIES**
 <div style="display: inline_block">
   <img align="center" alt="JG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
