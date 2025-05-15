@@ -7,7 +7,7 @@ learn and improve!🔧✨
 
  - **MAIN TECHNOLOGIES**
 <div style="display: inline_block">
- ##Stack
+### Stacks 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,firebase,html,css,bootstrap,git)](https://skillicons.dev)
 </div>
   
