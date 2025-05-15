@@ -9,7 +9,7 @@ learn and improve!🔧✨
 <div style="display: inline_block">
  ### Stacks 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,python,nextjs,react,nodejs,mongodb,postgres,prisma,tailwind,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,firebase,html,css,bootstrap,git)](https://skillicons.dev)
 </div>
   
  
