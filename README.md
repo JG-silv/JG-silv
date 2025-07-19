@@ -24,9 +24,9 @@ Sempre buscando **aprender e melhorar!** 🔧✨
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/><br>Bootstrap
-    </td>
+    </td> 
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="Windows"/><br>Windows
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="40" height="40" alt="Notion"/><br>Notion
     </td>
   </tr>
   <tr>
@@ -47,9 +47,7 @@ Sempre buscando **aprender e melhorar!** 🔧✨
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="40" height="40" alt="Notion"/><br>Notion
-    </td>
+   
   </tr>
 </table>
 
