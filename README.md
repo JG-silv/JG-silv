@@ -1,6 +1,6 @@
 # 👋 Hello World, I'm José
 
-```Developer Mobile, Java, JavaScript at @Grupo BSX | Trainee```
+```Developer Mobile, Java, JavaScript | Trainee```
 
 --------------
 
