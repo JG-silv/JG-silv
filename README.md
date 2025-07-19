@@ -2,12 +2,11 @@
 
 ```Developer Mobile, Java, JavaScript at @Grupo BSX | Trainee```
 
-💻 Estou estudando para me tornar um **desenvolvedor fullstack**, com foco atual em **Java** como linguagem principal.  
-Sempre buscando **aprender e melhorar!** 🔧✨
-
+💻 I'm studying to become a **fullstack developer**, currently focusing on **Java** as my primary language.
+Always looking to **learn and improve!** 🔧✨
 ---
 
-### 🚀 Stacks e Ferramentas que uso
+### 🚀 Stacks and Tools 
 
 <div align="center">
 
@@ -64,9 +63,9 @@ Sempre buscando **aprender e melhorar!** 🔧✨
 
 ---
 
-### 📫 Como me encontrar
+### 📫 How to find me
 
 - GitHub: [@JG-silv](https://github.com/JG-silv)
 ---
 
-⭐ Obrigado por visitar meu perfil!
+⭐ Thank you for visiting my profile!
