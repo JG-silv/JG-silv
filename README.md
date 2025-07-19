@@ -26,7 +26,7 @@ Sempre buscando **aprender e melhorar!** 🔧✨
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/><br>Bootstrap
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachecordova/apachecordova-original.svg" width="40" height="40" alt="Apache Cordova"/><br>Cordova
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="Windows"/><br>Windows
     </td>
   </tr>
   <tr>
@@ -41,6 +41,14 @@ Sempre buscando **aprender e melhorar!** 🔧✨
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" height="40" alt="Eclipse"/><br>Eclipse
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/><br>Figma
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="40" height="40" alt="Notion"/><br>Notion
     </td>
   </tr>
 </table>
