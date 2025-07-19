@@ -67,7 +67,6 @@ Sempre buscando **aprender e melhorar!** 🔧✨
 ### 📫 Como me encontrar
 
 - GitHub: [@JG-silv](https://github.com/JG-silv)
-
 ---
 
 ⭐ Obrigado por visitar meu perfil!
