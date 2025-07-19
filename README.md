@@ -2,9 +2,7 @@
 
 ```Developer Mobile, Java, JavaScript at @Grupo BSX | Trainee```
 
-💻 I'm studying to become a **fullstack developer**, currently focusing on **Java** as my primary language.
-Always looking to **learn and improve!** 🔧✨
----
+--------------
 
 ### 🚀 Stacks and Tools 
 
