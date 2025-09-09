@@ -1,6 +1,6 @@
-# 👋 Hello World, I'm José
+# 👋 Hello World, I'm José Gabriel
 
-```Developer Mobile, Java, JavaScript | Trainee```
+```Developer Mobile, Java, JavaScript | trainee```
 
 --------------
 
