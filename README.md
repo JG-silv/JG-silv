@@ -1,6 +1,6 @@
 # 👋 Hello World, I'm José Gabriel
 
-```Developer Mobile, Java, JavaScript | trainee```
+```Developer Mobile, Java, JavaScript | trainee | indie hacker```
 
 --------------
 
