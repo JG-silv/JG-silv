@@ -53,7 +53,7 @@
 ---
 
 ### 📈 GitHub Stats
-  <div aling="center">
+  <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JG-silv&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
