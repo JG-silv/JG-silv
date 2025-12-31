@@ -52,21 +52,6 @@ I enjoy working close to the product, turning complex ideas into **simple, scala
 
 ---
 
-## 🧩 Selected Experience
-
-### 🟣 Youdify — Public Fintech Startup  
-**Founder & Lead Full Stack Engineer (AI)**  
-
-- Building a **public fintech SaaS** focused on AI-driven financial organization  
-- Developing **AI agents** that process messages, documents, and structured data  
-- Generating **insights, alerts, and explanations** through conversational AI  
-- Integrating databases, APIs, and automation workflows  
-- Owning the full lifecycle: **architecture → development → deployment**
-
-> *End-to-end ownership of product, codebase, and infrastructure.*
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -96,7 +81,7 @@ I enjoy working close to the product, turning complex ideas into **simple, scala
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/joseph-gabriel-silva/  
+- 💼 LinkedIn: https://www.linkedin.com
 - 💻 GitHub: https://github.com/JG-silv  
 
 ---
