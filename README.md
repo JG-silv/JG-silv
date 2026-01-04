@@ -81,7 +81,7 @@ I enjoy working close to the product, turning complex ideas into **simple, scala
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com
+- 💼 LinkedIn: https://www.linkedin.co
 - 💻 GitHub: https://github.com/JG-silv  
 
 ---
