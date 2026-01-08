@@ -12,7 +12,7 @@ Founder • SaaS Builder • Automation & AI Enthusiast
 
 I'm a **Full Stack Software Engineer** with experience building **AI-powered SaaS platforms**, automation workflows, and end-to-end systems.
 
-Currently, I'm the **Founder & Lead Engineer of Youdify**, a public fintech startup where I design, build, and deploy intelligent systems that combine **AI agents**, backend services, automation workflows, and cloud infrastructure.
+I design, build, and deploy intelligent systems that combine **AI agents**, backend services, automation workflows, and cloud infrastructure.
 
 I enjoy working close to the product, turning complex ideas into **simple, scalable, and maintainable solutions**.
 
