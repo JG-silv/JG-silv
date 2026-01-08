@@ -1,7 +1,7 @@
 # 👋 Hello, I'm José Gabriel
 
 **Full Stack Software Engineer (AI-Focused)**  
-Founder • SaaS Builder • Automation & AI Enthusiast  
+Founder • Builder • Automation & AI Enthusiast  
 
 🚀 Building scalable products with **AI, automation, and modern web technologies**  
 🧠 Focused on **real-world problem solving**, not toy projects
@@ -15,33 +15,6 @@ I'm a **Full Stack Software Engineer** with experience building **AI-powered Saa
 I design, build, and deploy intelligent systems that combine **AI agents**, backend services, automation workflows, and cloud infrastructure.
 
 I enjoy working close to the product, turning complex ideas into **simple, scalable, and maintainable solutions**.
-
----
-
-## 🏗️ What I Work With
-
-### 🤖 AI & Automation
-- AI Agents & Conversational Systems  
-- LLM Integration (OpenAI / GPT)  
-- Prompt Engineering  
-- Workflow Automation (n8n)  
-- Webhooks & Event-driven flows  
-
-### 💻 Backend & Frontend
-- JavaScript (ES6+)  
-- Node.js  
-- Next.js  
-- React (basic, product-oriented)  
-- REST APIs  
-
-### 🗄️ Data & Infra
-- Supabase  
-- Firebase  
-- MariaDB  
-- Netlify  
-- Cloud-based deployments  
-
----
 
 ## 🚀 Current Focus
 
