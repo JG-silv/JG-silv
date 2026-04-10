@@ -1,7 +1,7 @@
 # 👋 Hello, I'm José Gabriel
 
 **Full Stack Software Developer (AI-Focused)**  
-Founder • Builder • Automation & AI Enthusiast  --
+ Founder • Builder • Automation & AI Enthusiast 
 
 🧠 Focused on **real-world problem solving**, not toy projects!
 
