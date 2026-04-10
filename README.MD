@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-I'm a **Full Stack Software Developer** with experience building **AI-powered SaaS platforms**, Mobile Aplications, automation workflows, and end-to-end systems.
+I'm a **Full Stack Software Developer** with 2+ experience building **AI-powered SaaS platforms**, Mobile Aplications, automation workflows, and end-to-end systems.
 
 I design, build, and deploy intelligent systems that combine **AI agents**, backend services, automation workflows, and cloud infrastructure.
 
