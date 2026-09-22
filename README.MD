@@ -241,7 +241,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=JG-silv&layo
 
 🌐 **Website:** [zurcdev.com.br](https://zurcdev.com.br)
 
-💼 **LinkedIn:** https://www.linkedin.com
+💼 **Email:** dev.jg.jar@gmail.com
 
 ---
 
