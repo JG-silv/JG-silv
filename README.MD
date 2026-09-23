@@ -158,12 +158,6 @@ I enjoy working close to the product and solving problems that go beyond writing
 
 ## 🤖 AI-Assisted Development
 
-<p align="left">
-
-<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="45" height="45" alt="OpenAI" title="OpenAI / Codex"/>
-
-</p>
-
 I use AI-assisted development tools such as **OpenAI Codex** to support:
 
 * Code implementation
