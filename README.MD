@@ -217,24 +217,6 @@ My main interests are **SaaS, business software, automation, AI integration and 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api?username=JG-silv&show_icons=true&hide_border=true"
-/>
-
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JG-silv&layout=compact&hide_border=true"
-/>
-
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 💻 **GitHub:** [github.com/JG-silv](https://github.com/JG-silv)
