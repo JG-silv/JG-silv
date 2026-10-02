@@ -146,8 +146,6 @@ I enjoy working close to the product and solving problems that go beyond writing
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="45" height="45" alt="Eclipse" title="Eclipse"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Nodejs" title="Nodejs"/>
 &nbsp;          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" title="Postman"/>
 &nbsp;
