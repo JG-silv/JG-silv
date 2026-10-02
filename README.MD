@@ -106,10 +106,13 @@ I enjoy working close to the product and solving problems that go beyond writing
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle Database" title="Oracle Database"/>
 &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="45" height="45" alt="Firebase" title="Firebase"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="45" height="45" alt="Supabase" title="Supabase"/>
-
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" title="PostgreSQL"/>
 </p>
 
 **SQL · MySQL · MySQL Workbench · Oracle Database · Firebase · Supabase**
@@ -144,6 +147,8 @@ I enjoy working close to the product and solving problems that go beyond writing
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="45" height="45" alt="Eclipse" title="Eclipse"/>
 &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+&nbsp;          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" title="Postman"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="45" height="45" alt="Insomnia" title="Insomnia"/>
