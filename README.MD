@@ -106,7 +106,7 @@ I enjoy working close to the product and solving problems that go beyond writing
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle Database" title="Oracle Database"/>
 &nbsp;
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="45" height="45" alt="MariaDB" title="MariaDB"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="45" height="45" alt="Firebase" title="Firebase"/>
 &nbsp;
@@ -115,7 +115,7 @@ I enjoy working close to the product and solving problems that go beyond writing
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" title="PostgreSQL"/>
 </p>
 
-**SQL · MySQL · MySQL Workbench · Oracle Database · Firebase · Supabase**
+**SQL · MySQL · MariaDB · MySQL Workbench · PostgreSQL · Oracle Database · Firebase · Supabase**
 
 ---
 
