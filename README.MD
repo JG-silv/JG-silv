@@ -27,7 +27,7 @@ I work across the full development lifecycle:
 
 I enjoy working close to the product and solving problems that go beyond writing isolated features.
 
-> **Software should solve operational and business problems — not just run code.**
+> **Software should solve operational and business problems not just run code.**
 
 ---
 
